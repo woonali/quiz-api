@@ -8,5 +8,9 @@
         public int TotalScore { get; set; }
         public DateTime StartedAt { get; set; }
         public DateTime FinishedAt { get; set; }
+
+        public User User { get; set; }
+        public Quiz Quiz { get; set; }
+        public ICollection<UserAnswer> UserAnswers { get; set; }
     }
 }

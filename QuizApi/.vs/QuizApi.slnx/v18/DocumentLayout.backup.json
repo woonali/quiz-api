@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\Projects\\quiz-api\\QuizApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\answeroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\answeroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AnswerOption.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\AnswerOption.cs",
+              "RelativeDocumentMoniker": "QuizApi\\Models\\AnswerOption.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\AnswerOption.cs",
+              "RelativeToolTip": "QuizApi\\Models\\AnswerOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:18:23.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "QuizApi\\Models\\Question.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Question.cs",
+              "RelativeToolTip": "QuizApi\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:15:33.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Theme.cs",
+              "RelativeDocumentMoniker": "QuizApi\\Models\\Theme.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Theme.cs",
+              "RelativeToolTip": "QuizApi\\Models\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:13:22.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Quiz.cs",
               "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Quiz.cs",
               "RelativeDocumentMoniker": "QuizApi\\Models\\Quiz.cs",

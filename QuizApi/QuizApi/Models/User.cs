@@ -6,5 +6,7 @@
         public string Nickname { get; set; }
         public string Email { get; set; }
         public string HashedPassword { get; set; }
+
+        public ICollection<Result> Results { get; set; }
     }
 }

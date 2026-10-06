@@ -6,5 +6,8 @@
         public string Text { get; set; }
         public int Points { get; set; }
         public int QuizId { get; set; }
+
+        public Quiz Quiz { get; set; }
+        public ICollection<AnswerOption> AnswerOptions { get; set; }
     }
 }
