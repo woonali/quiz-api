@@ -12,7 +12,7 @@ using QuizApi.Data;
 namespace QuizApi.Migrations
 {
     [DbContext(typeof(QuizDbContext))]
-    [Migration("20261006133540_InitialCreate")]
+    [Migration("20261006135006_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -251,7 +251,7 @@ namespace QuizApi.Migrations
                     b.HasOne("QuizApi.Models.AnswerOption", "AnswerOption")
                         .WithMany()
                         .HasForeignKey("AnswerOptionId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("QuizApi.Models.Result", "Result")

@@ -14,5 +14,16 @@ namespace QuizApi.Data
         public DbSet<UserAnswer> UserAnswers { get; set; }
 
         public QuizDbContext(DbContextOptions<QuizDbContext> options) : base(options) { }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<UserAnswer>()
+                .HasOne(a => a.AnswerOption)
+                .WithMany()
+                .HasForeignKey(a => a.AnswerOptionId)
+                .OnDelete(DeleteBehavior.Restrict);
+        }
     }
 }

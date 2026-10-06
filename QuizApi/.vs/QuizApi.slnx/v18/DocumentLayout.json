@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\Projects\\quiz-api\\QuizApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\data\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\data\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,24 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Program.cs",
+              "RelativeDocumentMoniker": "QuizApi\\Program.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Program.cs",
+              "RelativeToolTip": "QuizApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:16:59.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\appsettings.json",
+              "RelativeDocumentMoniker": "QuizApi\\appsettings.json",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\appsettings.json",
+              "RelativeToolTip": "QuizApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T13:11:46.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QuizDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Data\\QuizDbContext.cs",
+              "RelativeDocumentMoniker": "QuizApi\\Data\\QuizDbContext.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Data\\QuizDbContext.cs",
+              "RelativeToolTip": "QuizApi\\Data\\QuizDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:49:07.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserAnswer.cs",
               "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\UserAnswer.cs",
               "RelativeDocumentMoniker": "QuizApi\\Models\\UserAnswer.cs",
               "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\UserAnswer.cs",
               "RelativeToolTip": "QuizApi\\Models\\UserAnswer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T12:28:35.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "QuizApi\\Models\\User.cs",
@@ -68,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Theme.cs",
               "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Theme.cs",
               "RelativeDocumentMoniker": "QuizApi\\Models\\Theme.cs",
@@ -81,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Result.cs",
               "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Result.cs",
               "RelativeDocumentMoniker": "QuizApi\\Models\\Result.cs",
@@ -94,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Quiz.cs",
               "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Quiz.cs",
               "RelativeDocumentMoniker": "QuizApi\\Models\\Quiz.cs",
@@ -107,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Question.cs",
               "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Question.cs",
               "RelativeDocumentMoniker": "QuizApi\\Models\\Question.cs",
@@ -128,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AnswerOption.cs",
               "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\AnswerOption.cs",
               "RelativeDocumentMoniker": "QuizApi\\Models\\AnswerOption.cs",

@@ -248,7 +248,7 @@ namespace QuizApi.Migrations
                     b.HasOne("QuizApi.Models.AnswerOption", "AnswerOption")
                         .WithMany()
                         .HasForeignKey("AnswerOptionId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("QuizApi.Models.Result", "Result")

@@ -147,7 +147,7 @@ namespace QuizApi.Migrations
                         column: x => x.AnswerOptionId,
                         principalTable: "AnswerOptions",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
                         name: "FK_UserAnswers_Results_ResultId",
                         column: x => x.ResultId,
