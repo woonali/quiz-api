@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "E:\\Projects\\quiz-api\\QuizApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\data\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\data\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\updatethemedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\updatethemedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\updatequizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\updatequizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\updatequestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\updatequestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\updateansweroptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\updateansweroptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\submitquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\submitquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\createthemedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\createthemedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\createquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\createquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\models\\answeroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\models\\answeroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\createquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\createquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|e:\\projects\\quiz-api\\quizapi\\quizapi\\dtos\\createansweroptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48899EC-7627-37AA-38AF-29C356829B6B}|QuizApi\\QuizApi.csproj|solutionrelative:quizapi\\dtos\\createansweroptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,123 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Program.cs",
-              "RelativeDocumentMoniker": "QuizApi\\Program.cs",
-              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Program.cs",
-              "RelativeToolTip": "QuizApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UpdateThemeDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\UpdateThemeDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\UpdateThemeDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\UpdateThemeDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\UpdateThemeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T13:16:59.472Z",
+              "WhenOpened": "2026-10-08T09:08:34.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateQuizDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\UpdateQuizDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\UpdateQuizDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\UpdateQuizDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\UpdateQuizDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T09:08:31.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\appsettings.json",
-              "RelativeDocumentMoniker": "QuizApi\\appsettings.json",
-              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\appsettings.json",
-              "RelativeToolTip": "QuizApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-06T13:11:46.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QuizDbContext.cs",
-              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Data\\QuizDbContext.cs",
-              "RelativeDocumentMoniker": "QuizApi\\Data\\QuizDbContext.cs",
-              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Data\\QuizDbContext.cs",
-              "RelativeToolTip": "QuizApi\\Data\\QuizDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Title": "UpdateQuestionDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\UpdateQuestionDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\UpdateQuestionDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\UpdateQuestionDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\UpdateQuestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:49:07.341Z",
+              "WhenOpened": "2026-10-08T09:08:25.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserAnswer.cs",
-              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\UserAnswer.cs",
-              "RelativeDocumentMoniker": "QuizApi\\Models\\UserAnswer.cs",
-              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\UserAnswer.cs",
-              "RelativeToolTip": "QuizApi\\Models\\UserAnswer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "UpdateAnswerOptionDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\UpdateAnswerOptionDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\UpdateAnswerOptionDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\UpdateAnswerOptionDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\UpdateAnswerOptionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:28:35.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "QuizApi\\Models\\User.cs",
-              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\User.cs",
-              "RelativeToolTip": "QuizApi\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:28:15.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Theme.cs",
-              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Theme.cs",
-              "RelativeDocumentMoniker": "QuizApi\\Models\\Theme.cs",
-              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Theme.cs",
-              "RelativeToolTip": "QuizApi\\Models\\Theme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:26:47.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Result.cs",
-              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Result.cs",
-              "RelativeDocumentMoniker": "QuizApi\\Models\\Result.cs",
-              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Result.cs",
-              "RelativeToolTip": "QuizApi\\Models\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:25:30.825Z",
+              "WhenOpened": "2026-10-08T09:08:17.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Quiz.cs",
-              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Quiz.cs",
-              "RelativeDocumentMoniker": "QuizApi\\Models\\Quiz.cs",
-              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Quiz.cs",
-              "RelativeToolTip": "QuizApi\\Models\\Quiz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Title": "CreateThemeDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\CreateThemeDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\CreateThemeDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\CreateThemeDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\CreateThemeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:24:28.104Z",
+              "WhenOpened": "2026-10-08T09:08:12.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Question.cs",
-              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Question.cs",
-              "RelativeDocumentMoniker": "QuizApi\\Models\\Question.cs",
-              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\Question.cs",
-              "RelativeToolTip": "QuizApi\\Models\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Title": "CreateQuizDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\CreateQuizDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\CreateQuizDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\CreateQuizDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\CreateQuizDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:23:45.044Z",
+              "WhenOpened": "2026-10-08T09:08:11.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\LoginDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T09:04:29.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubmitQuizDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\SubmitQuizDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\SubmitQuizDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\SubmitQuizDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\SubmitQuizDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T09:05:33.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateAnswerOptionDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\CreateAnswerOptionDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\CreateAnswerOptionDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\CreateAnswerOptionDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\CreateAnswerOptionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T09:05:12.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateQuestionDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\CreateQuestionDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\CreateQuestionDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\CreateQuestionDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\CreateQuestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T09:05:05.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "QuizApi\\DTOs\\RegisterUserDto.cs",
+              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "QuizApi\\DTOs\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T09:04:31.282Z",
               "EditorCaption": ""
             },
             {
@@ -176,19 +206,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AnswerOption.cs",
-              "DocumentMoniker": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\AnswerOption.cs",
-              "RelativeDocumentMoniker": "QuizApi\\Models\\AnswerOption.cs",
-              "ToolTip": "E:\\Projects\\quiz-api\\QuizApi\\QuizApi\\Models\\AnswerOption.cs",
-              "RelativeToolTip": "QuizApi\\Models\\AnswerOption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:23:18.587Z",
-              "EditorCaption": ""
             }
           ]
         },
