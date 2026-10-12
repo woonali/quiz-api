@@ -18,17 +18,25 @@ namespace QuizApi.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Theme>>> GetAll()
+        public async Task<ActionResult<IEnumerable<ThemeDto>>> GetAll()
         {
-            var themes = await _context.Themes.ToListAsync();
+            var themes = await _context.Themes.Select(t => new ThemeDto
+            {
+                Id = t.Id,
+                Title = t.Title
+            }).ToListAsync();
 
             return Ok(themes);
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<Theme>> GetById(int id)
+        public async Task<ActionResult<ThemeDto>> GetById(int id)
         {
-            var theme = await _context.Themes.FindAsync(id);
+            var theme = await _context.Themes.Where(t => t.Id == id).Select(t => new ThemeDto
+            {
+                Id = t.Id,
+                Title = t.Title
+            }).FirstOrDefaultAsync();
 
             if (theme == null)
             {
@@ -41,20 +49,25 @@ namespace QuizApi.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<Theme>> Create(CreateThemeDto dto)
+        public async Task<ActionResult<ThemeDto>> Create(CreateThemeDto dto)
         {
-            Theme theme = new Theme { Title = dto.Title };
+            var theme = new Theme { Title = dto.Title };
             _context.Themes.Add(theme);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction(nameof(GetById), new { id = theme.Id }, theme);
+            var themeDto = new ThemeDto
+            {
+                Id = theme.Id,
+                Title = theme.Title
+            };
+            return CreatedAtAction(nameof(GetById), new { id = theme.Id }, themeDto);
         }
 
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(int id, UpdateThemeDto dto)
         {
             var theme = await _context.Themes.FindAsync(id);
-            if(theme == null)
+            if (theme == null)
             {
                 return NotFound();
             }
