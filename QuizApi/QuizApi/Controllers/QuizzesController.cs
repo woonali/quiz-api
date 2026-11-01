@@ -33,6 +33,7 @@ namespace QuizApi.Controllers
                 Title = q.Title,
                 ThemeId = q.ThemeId
             }).ToListAsync();
+
             return Ok(quizzes);
         }
 
@@ -65,7 +66,6 @@ namespace QuizApi.Controllers
                 return BadRequest($"Тема с Id = {dto.ThemeId} не найдена");
             }
 
-
             Quiz quiz = new Quiz { Title = dto.Title, ThemeId = dto.ThemeId };
             _context.Quizzes.Add(quiz);
             await _context.SaveChangesAsync();
@@ -76,6 +76,7 @@ namespace QuizApi.Controllers
                 Title = quiz.Title,
                 ThemeId = quiz.ThemeId
             };
+
             return CreatedAtAction(nameof(GetById), new { id = quiz.Id }, quizDto);
         }
 
